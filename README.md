@@ -54,7 +54,7 @@ But tensors created by tf.Variable are Mutable so they can change there tensor v
 
 ## Support
 
-For support, email ramyasri.adepu0107@gmail.com.
+For support, email ramyasri.adepu1601@gmail.com.
 
 
 ## Acknowledgements
